@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Green cone', 'Orange cone']
+
+roboflow:
+  workspace: yuval-k
+  project: cones-detection-k0i6h
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yuval-k/cones-detection-k0i6h/dataset/2
