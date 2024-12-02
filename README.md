@@ -7,8 +7,7 @@ Looking further to join the team to continue exploring the computer vision world
 
 Example result:
 
-![Alt Text](https://s5.ezgif.com/tmp/ezgif-5-0383d8a8fd.gif)
-![hippo](https://s5.ezgif.com/tmp/ezgif-5-0383d8a8fd.gif)
+![Alt Text](https://imgur.com/ps7w7bK)
 
 ## Acknowledgements
 
