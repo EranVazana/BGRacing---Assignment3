@@ -7,6 +7,8 @@ Looking further to join the team to continue exploring the computer vision world
 
 Example result:
 
+![example](https://github.com/user-attachments/assets/66105b95-9c81-4748-969c-7a2693e06842)
+
 ## Acknowledgements
 
 I trained the project YOLOV8 model for detecting cones using this dataset:
