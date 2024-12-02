@@ -7,7 +7,7 @@ Looking further to join the team to continue exploring the computer vision world
 
 Example result:
 
-![Alt Text](https://imgur.com/ps7w7bK)
+![Alt Text](https://i.imgur.com/ps7w7bK.mp4)
 
 ## Acknowledgements
 
