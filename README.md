@@ -30,7 +30,7 @@ if you choose to train it on another dataset, make sure you have the pytorch lib
   pip install torch
 ```
 
-To install pytorch with the nvidia CUDA toolkit i recomment to look at:
+To install pytorch with the nvidia CUDA toolkit i recommend to look at:
 
 https://pytorch.org/get-started/locally/
     
