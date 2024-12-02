@@ -7,8 +7,6 @@ Looking further to join the team to continue exploring the computer vision world
 
 Example result:
 
-![Alt Text](https://i.imgur.com/ps7w7bK.mp4)
-
 ## Acknowledgements
 
 I trained the project YOLOV8 model for detecting cones using this dataset:
